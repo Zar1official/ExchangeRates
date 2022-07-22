@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExchangeRates</string>
+    <string name="favourite_screen_title">Избранное</string>
+    <string name="popular_screen_title">Популярное</string>
+</resources>
