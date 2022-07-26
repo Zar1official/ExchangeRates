@@ -2,4 +2,12 @@
     <string name="app_name">ExchangeRates</string>
     <string name="favourite_screen_title">Избранное</string>
     <string name="popular_screen_title">Популярное</string>
+
+    <string name="choose_symbol_label">Выберите валюту</string>
+    <string name="alphabet_asc_title">Алфавит: по возрастанию</string>
+    <string name="alphabet_desc_title">Алфавит: по убыванию</string>
+    <string name="rate_asc_title">Курс: по возрастанию</string>
+    <string name="rate_desc_title">Курс: по убыванию</string>
+
+    <string name="network_error">Ошибка сети</string>
 </resources>

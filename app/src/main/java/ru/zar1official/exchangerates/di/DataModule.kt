@@ -5,7 +5,7 @@ import dagger.Module
 import dagger.hilt.InstallIn
 import dagger.hilt.components.SingletonComponent
 import ru.zar1official.exchangerates.data.repositories.RepositoryImpl
-import ru.zar1official.exchangerates.domain.Repository
+import ru.zar1official.exchangerates.domain.repository.Repository
 import javax.inject.Singleton
 
 @Module
