@@ -23,7 +23,7 @@ fun CurrencyItem(
     Card(
         modifier = modifier,
         shape = RoundedCornerShape(5.dp),
-        elevation = 2.dp,
+        elevation = 1.dp,
         backgroundColor = Color.Gray.copy(alpha = 0.05f)
     ) {
         Row(
